@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<zls-examination>
+    <name>第五章练习</name>
+    <size>15</size>
+    <note>1</note>
+    <items>
+        <item>
+            <id>1</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;###基础闯关全练&#x0A;***知识点一 二次函数的概念&#x0A;1.下列各式中，y是x的二次函数的是()&#x0A;A.y=ax+bx+c&#x0A;B.x+y-2=0&#x0A;C.y-ax=-2&#x0A;D.x-y+1=0
+            </subject>
+            <analysis>[正确答案]:B</analysis>
+            <score>5分
+            </score>
+            <type>0</type>
+            <answer>B
+            </answer>
+            <alysis1>[解析]:A.y=ax+bx+c，没有说明a≠0，故A错误；B.x+y-2=0可变形为y=-x+2，是二次函数，故B正确；C.y-ax=-2不是二次函数，故C错误；D.x-y=0不是二次函数，故D错误.故选B.</alysis1>
+        </item>
+        <item>
+            <id>2</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;***知识点二 用待定系数法确定二次函数的表达式&#x0A;2.天猫网某商铺销售新疆薄皮核桃，这种食品是健脑的佳品，经市场调查发现，该食品每天的销售利润w(元)与销售价x(元/千克)有如下关系：w=ax+bx-1600，当销售价为22元/千克时，每天的销售利润为72元，当销售价为26元/千克时，每天的销售利润为168元，则该食品每天的销售利润w(元)与销售价x(元/千克)的函数表达式是________________.
+            </subject>
+            <analysis>[正确答案]:w=-2x+120x-1600
+            </analysis>
+            <score>5分
+            </score>
+            <type>3</type>
+            <answer>w=-2x+120x-1600
+            </answer>
+            <alysis1>[解析]:由题意得&lt;img src=&quot;ces.files/image001.png&quot;&gt;解得&lt;img src=&quot;ces.files/image002.png&quot;&gt;&#x0A;所以该食品每天的销售利润w(元)与销售价x(元/千克)的函数表达式为w=-2x+120x-1600.
+            </alysis1>
+        </item>
+        <item>
+            <id>3</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;***知识点三 根据实际问题中的数量关系列二次函数解析式&#x0A;3.长方形的周长为24
+                cm，其中一边长为x cm(其中x＞0)，面积为y cm，则y与x的关系可以写为( )&#x0A;A.y=x&#x0A;B.y=12-x&#x0A;C.y=(12-x)·x&#x0A;D.y=2(12-x)
+            </subject>
+            <analysis>[正确答案]:C
+            </analysis>
+            <score>5分
+            </score>
+            <type>0</type>
+            <answer>C
+            </answer>
+            <alysis1>[解析]:∵长方形的周长为24cm，其中一边长为x cm(其中x＞0)，∴该边的一邻边长为(12-x)cm，∴y=(12-x)·x.故选C.
+            </alysis1>
+        </item>
+        <item>
+            <id>4</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;4.喜迎圣诞，某商店销售一种进价为50元/件的商品，售价为60元/件，每星期可卖出200件，若每件商品的售价每上涨1元，则每星期就会少卖出10件.设每件商品的售价上涨x元(x为整数)，每星期销售该商品的总利润为y元，则y与x的函数表达式为________.
+            </subject>
+            <analysis>[正确答案]:y=-10x+100x+2000
+            </analysis>
+            <score>5分
+            </score>
+            <type>3</type>
+            <answer>y=-10x+100x+2000
+            </answer>
+            <alysis1>[解析]:解析
+                ∵每件商品的售价上涨x元(x为正整数)，∴每件商品的利润为(60-50+x)元，总销量为(200-10x)件，商品总利润为y=(60-50+x)(200-10x)=(10+x)(200-10x)=-10x+100x+2000.
+            </alysis1>
+        </item>
+        <item>
+            <id>5</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;###能力提升全练&#x0A;1.若y=(2-m)x&lt;img
+                src=&quot;ces.files/image003.png&quot;&gt;是二次函数，则m=________.
+            </subject>
+            <analysis>[正确答案]:-2
+            </analysis>
+            <score>5分
+            </score>
+            <type>3</type>
+            <answer>-2
+            </answer>
+            <alysis1>[解析]:∵y=(2-m)x&lt;img src=&quot;ces.files/image003.png&quot;&gt;是二次函数，∴&lt;img
+                src=&quot;ces.files/image004.png&quot;&gt;解得m=-2.
+            </alysis1>
+        </item>
+        <item>
+            <id>6</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;2.若y=ax+bx+c(a≠0)，则由表格中信息可知y与x之间的函数关系式是(
+                )&#x0A;&lt;img src=&quot;ces.files/image005.png&quot;&gt;&#x0A;A.y=x-4x+3&#x0A;B.y=x-3x+4&#x0A;C.y=x-3x+3&#x0A;D.y=x-4x+8
+            </subject>
+            <analysis>[正确答案]:A
+            </analysis>
+            <score>5分
+            </score>
+            <type>0</type>
+            <answer>A
+            </answer>
+            <alysis1>
+                [解析]:∵x=1时，ax=1，∴a=1.当x=0时，y=c=3.y=x+bx+3.又当x=-1时，y=8，即1-b+3=8，∴b=-4.∴y=x-4x+3.故选A.
+            </alysis1>
+        </item>
+        <item>
+            <id>7</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;3.如图1-1-1所示，在直角梯形ABCD中，∠A=∠D=90°，截取AE=BF=DG=x(点G不与点D、C重合).已知AB=6，CD=3，AD=4.求四边形CGEF的面积S关于x的函数表达式.&#x0A;&lt;img
+                src=&quot;ces.files/image006.jpg&quot;&gt;&#x0A;图1-1-1
+            </subject>
+            <analysis>[正确答案]:S=S&lt;img src=&quot;ces.files/image007.png&quot;&gt;-S&lt;img src=&quot;ces.files/image008.png&quot;&gt;-S&lt;img
+                src=&quot;ces.files/image009.png&quot;&gt;-S&lt;img src=&quot;ces.files/image010.png&quot;&gt;=&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;×(3+6)×4-&lt;img src=&quot;ces.files/image011.png&quot;&gt;x(4-x)-&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;x(6-x)-&lt;img src=&quot;ces.files/image011.png&quot;&gt;×4x=x-7x+18.&#x0A;所以四边形CGEF的面积S关于x的函数表达式为S=x-7x+18(0＜x＜3).
+            </analysis>
+            <score>5分
+            </score>
+            <type>4</type>
+            <answer>S=S&lt;img src=&quot;ces.files/image007.png&quot;&gt;-S&lt;img src=&quot;ces.files/image008.png&quot;&gt;-S&lt;img
+                src=&quot;ces.files/image009.png&quot;&gt;-S&lt;img src=&quot;ces.files/image010.png&quot;&gt;=&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;×(3+6)×4-&lt;img src=&quot;ces.files/image011.png&quot;&gt;x(4-x)-&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;x(6-x)-&lt;img src=&quot;ces.files/image011.png&quot;&gt;×4x=x-7x+18.
+            </answer>
+            <alysis1>[解析]:S=S&lt;img src=&quot;ces.files/image007.png&quot;&gt;-S&lt;img src=&quot;ces.files/image008.png&quot;&gt;-S&lt;img
+                src=&quot;ces.files/image009.png&quot;&gt;-S&lt;img src=&quot;ces.files/image010.png&quot;&gt;=&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;×(3+6)×4-&lt;img src=&quot;ces.files/image011.png&quot;&gt;x(4-x)-&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;x(6-x)-&lt;img src=&quot;ces.files/image011.png&quot;&gt;×4x=x-7x+18.
+            </alysis1>
+        </item>
+        <item>
+            <id>8</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;###三年模拟全练&#x0A;***一、选择题&#x0A;1.(2016浙江金华第四中学期中，★☆☆)下列各式中，y是x的二次函数的是(
+                )&#x0A;A.y=-2x+1&#x0A;B.y=x+x-2&#x0A;C.y=x+2x-3&#x0A;D.y=&lt;img src=&quot;ces.files/image012.png&quot;&gt;
+            </subject>
+            <analysis>[正确答案]:&#x0A;B
+            </analysis>
+            <score>5分
+            </score>
+            <type>0</type>
+            <answer>B
+            </answer>
+            <alysis1>
+                [解析]:二次函数y=ax+bx+c满足的条件：等号右边为整式，含自变量的项的最高次数为2，且二次项系数a≠0，而选项A含自变量的项的最高次数为1，选项C中y的次数为2，选项D中等号右边是分式，都不符合二次函数的条件，只有选项B符合二次函数的条件，故选B.
+            </alysis1>
+        </item>
+        <item>
+            <id>9</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;2.(2016浙江温州八中月考，1，★☆☆)若二次函数y=2x的图象经过点P(1，a)，则a的值为(
+                )&#x0A;A.&lt;img src=&quot;ces.files/image011.png&quot;&gt;&#x0A;B.1&#x0A;C.2&#x0A;D.4
+            </subject>
+            <analysis>[正确答案]:C
+            </analysis>
+            <score>5分</score>
+            <type>0</type>
+            <answer>C
+            </answer>
+            <alysis1>[解析]:把(1，a)代入y=2x，得a=2，故选C.
+            </alysis1>
+        </item>
+        <item>
+            <id>10</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;***二、解答题&#x0A;3.(2014浙江洞头期中，23，★★☆)如图1-1-2，直线l与x轴、y轴分别交于点M(8，0)、点N(0，6).点P从点N出发，以每秒1个单位长度的速度沿N→O方向运动，点Q从点O出发，以每秒2个单位长度的速度沿O→M的方向运动.已知点P、Q同时出发，当点Q到达点M时，P、Q两点同时停止运动，设运动时间为t
+                <udot>秒时，
+                    <udot>四边形</udot>
+                </udot>
+                MNPQ的面积为S.求S关于t的函数关系式，并写出自变量的取值范围.&#x0A;&lt;img src=&quot;ces.files/image013.jpg&quot;&gt;&#x0A;图1-1-2
+            </subject>
+            <analysis>[正确答案]:连结PQ.由题意，得NP=t，OQ=2t，&#x0A;∴S&lt;img src=&quot;ces.files/image014.png&quot;&gt;=&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;×2t(6-t)=6t-t，&#x0A;∴S=S&lt;img src=&quot;ces.files/image015.png&quot;&gt;-S&lt;img
+                src=&quot;ces.files/image014.png&quot;&gt;=&lt;img src=&quot;ces.files/image011.png&quot;&gt;×6×8-(6t-t)=t-6t+24(0＜t≤4).
+            </analysis>
+            <score>5分
+            </score>
+            <type>4</type>
+            <answer>连结PQ.由题意，得NP=t，OQ=2t，&#x0A;∴S&lt;img src=&quot;ces.files/image014.png&quot;&gt;=&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;×2t(6-t)=6t-t，&#x0A;∴S=S&lt;img src=&quot;ces.files/image015.png&quot;&gt;-S&lt;img
+                src=&quot;ces.files/image014.png&quot;&gt;=&lt;img src=&quot;ces.files/image011.png&quot;&gt;×6×8-(6t-t)=t-6t+24(0＜t≤4).
+            </answer>
+            <alysis1>[解析]:连结PQ.由题意，得NP=t，OQ=2t，&#x0A;∴S&lt;img src=&quot;ces.files/image014.png&quot;&gt;=&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;×2t(6-t)=6t-t，&#x0A;∴S=S&lt;img src=&quot;ces.files/image015.png&quot;&gt;-S&lt;img
+                src=&quot;ces.files/image014.png&quot;&gt;=&lt;img src=&quot;ces.files/image011.png&quot;&gt;×6×8-(6t-t)=t-6t+24(0＜t≤4).
+            </alysis1>
+        </item>
+        <item>
+            <id>11</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;###五年中考全练&#x0A;选择题&#x0A;(2015甘肃兰州中考，1，★☆☆)下列函数解析式中，一定为二次函数的是(
+                )&#x0A;A.y=3x-1&#x0A;B.y=ax+bx+c&#x0A;C.S=2t-2t+1&#x0A;D.y=x+&lt;img src=&quot;ces.files/image016.png&quot;&gt;
+            </subject>
+            <analysis>[正确答案]:C
+            </analysis>
+            <score>5分
+            </score>
+            <type>0</type>
+            <answer>C
+            </answer>
+            <alysis1>[解析]:选项A中的函数的自变量的次数是1，选项B中的函数没有注明a≠0这一条件，选项D中的函数不是整式，故都不符合二次函数的条件，选项C符合，故选C.
+            </alysis1>
+        </item>
+        <item>
+            <id>12</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;&#x0A;###核心素养全练&#x0A;如图1-1-3，矩形ABCD中，AB=6cm，BC=12cm，点E是AB边上一动点，以1cm/s的速度从B点出发，到A点终止；点F是BC边上一动点，以2cm/s的速度从B点出发，到C点终止.运动的时间为t
+                s，△DEF的面积为S cm.&#x0A;(1)求S关于t的函数关系，并求自变量t的取值范围；&#x0A;(2)当△DEF是直角三角形时，求△DEF的面积.&#x0A;&lt;img
+                src=&quot;ces.files/image017.jpg&quot;&gt;&#x0A;图1-1-3
+            </subject>
+            <analysis>(1)∵BE=t cm，∴AE=(6-t) cm，BF=2t cm，CF=(12-2t) cm.&#x0A;∵S&lt;img src=&quot;ces.files/image018.png&quot;&gt;=S&lt;img
+                src=&quot;ces.files/image007.png&quot;&gt;-S&lt;img src=&quot;ces.files/image019.png&quot;&gt;-S&lt;img
+                src=&quot;ces.files/image020.png&quot;&gt;-S&lt;img src=&quot;ces.files/image021.png&quot;&gt;，∴S=&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;×6-&lt;img src=&quot;ces.files/image011.png&quot;&gt;×12(6-t)-&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;·t·2t-&lt;img src=&quot;ces.files/image011.png&quot;&gt;×6(12-2t)=-t+12t.&#x0A;由题意，得&lt;img
+                src=&quot;ces.files/image022.png&quot;&gt;解得0＜t≤6，即自变量t的取值范围是0＜t≤6.&#x0A;(2)①当∠DEF=90°时，由勾股定理得DE+EF=DF，∴(6-t)+12+t+(2t)=(12-2t)+6，解得t=0或-18(均不在0＜t≤6范围内)，∴此种情况不存在.&#x0A;②当∠EFD=90°时，由勾股定理得DF+EF=DE，∴(12-2t)+6+t+(2t)=(6-t)+12，解得t=0(舍)或t=&lt;img
+                src=&quot;ces.files/image023.png&quot;&gt;(在0＜t≤6范围内)，&#x0A;∴△DEF的面积为-(&lt;img src=&quot;ces.files/image023.png&quot;&gt;)+12×&lt;img
+                src=&quot;ces.files/image023.png&quot;&gt;=&lt;img src=&quot;ces.files/image024.png&quot;&gt;(cm).&#x0A;③当∠EDF=90°时，由勾股定理得DE+DF=EF，∴(6-t)+12+(12-2t)+6=t+(2t)，解得t=6(在0＜t≤6范围内)，&#x0A;∴△DEF的面积为-6+12×6=36(cm).&#x0A;综上，当△DEF是直角三角形时，△DEF的面积为&lt;img
+                src=&quot;ces.files/image024.png&quot;&gt;cm或36cm.
+            </analysis>
+            <score>5分
+            </score>
+            <type>4</type>
+            <answer>(1)∵BE=t cm，∴AE=(6-t) cm，BF=2t cm，CF=(12-2t) cm.&#x0A;∵S&lt;img src=&quot;ces.files/image018.png&quot;&gt;=S&lt;img
+                src=&quot;ces.files/image007.png&quot;&gt;-S&lt;img src=&quot;ces.files/image019.png&quot;&gt;-S&lt;img
+                src=&quot;ces.files/image020.png&quot;&gt;-S&lt;img src=&quot;ces.files/image021.png&quot;&gt;，∴S=&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;×6-&lt;img src=&quot;ces.files/image011.png&quot;&gt;×12(6-t)-&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;·t·2t-&lt;img src=&quot;ces.files/image011.png&quot;&gt;×6(12-2t)=-t+12t.&#x0A;由题意，得&lt;img
+                src=&quot;ces.files/image022.png&quot;&gt;解得0＜t≤6，即自变量t的取值范围是0＜t≤6.&#x0A;(2)①当∠DEF=90°时，由勾股定理得DE+EF=DF，∴(6-t)+12+t+(2t)=(12-2t)+6，解得t=0或-18(均不在0＜t≤6范围内)，∴此种情况不存在.&#x0A;②当∠EFD=90°时，由勾股定理得DF+EF=DE，∴(12-2t)+6+t+(2t)=(6-t)+12，解得t=0(舍)或t=&lt;img
+                src=&quot;ces.files/image023.png&quot;&gt;(在0＜t≤6范围内)，&#x0A;∴△DEF的面积为-(&lt;img src=&quot;ces.files/image023.png&quot;&gt;)+12×&lt;img
+                src=&quot;ces.files/image023.png&quot;&gt;=&lt;img src=&quot;ces.files/image024.png&quot;&gt;(cm).&#x0A;③当∠EDF=90°时，由勾股定理得DE+DF=EF，∴(6-t)+12+(12-2t)+6=t+(2t)，解得t=6(在0＜t≤6范围内)，&#x0A;∴△DEF的面积为-6+12×6=36(cm).&#x0A;综上，当△DEF是直角三角形时，△DEF的面积为&lt;img
+                src=&quot;ces.files/image024.png&quot;&gt;cm或36cm.
+            </answer>
+            <alysis1>[解析]:(1)∵BE=t cm，∴AE=(6-t) cm，BF=2t cm，CF=(12-2t) cm.&#x0A;∵S&lt;img src=&quot;ces.files/image018.png&quot;&gt;=S&lt;img
+                src=&quot;ces.files/image007.png&quot;&gt;-S&lt;img src=&quot;ces.files/image019.png&quot;&gt;-S&lt;img
+                src=&quot;ces.files/image020.png&quot;&gt;-S&lt;img src=&quot;ces.files/image021.png&quot;&gt;，∴S=&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;×6-&lt;img src=&quot;ces.files/image011.png&quot;&gt;×12(6-t)-&lt;img
+                src=&quot;ces.files/image011.png&quot;&gt;·t·2t-&lt;img src=&quot;ces.files/image011.png&quot;&gt;×6(12-2t)=-t+12t.&#x0A;由题意，得&lt;img
+                src=&quot;ces.files/image022.png&quot;&gt;解得0＜t≤6，即自变量t的取值范围是0＜t≤6.&#x0A;(2)①当∠DEF=90°时，由勾股定理得DE+EF=DF，∴(6-t)+12+t+(2t)=(12-2t)+6，解得t=0或-18(均不在0＜t≤6范围内)，∴此种情况不存在.&#x0A;②当∠EFD=90°时，由勾股定理得DF+EF=DE，∴(12-2t)+6+t+(2t)=(6-t)+12，解得t=0(舍)或t=&lt;img
+                src=&quot;ces.files/image023.png&quot;&gt;(在0＜t≤6范围内)，&#x0A;∴△DEF的面积为-(&lt;img src=&quot;ces.files/image023.png&quot;&gt;)+12×&lt;img
+                src=&quot;ces.files/image023.png&quot;&gt;=&lt;img src=&quot;ces.files/image024.png&quot;&gt;(cm).&#x0A;③当∠EDF=90°时，由勾股定理得DE+DF=EF，∴(6-t)+12+(12-2t)+6=t+(2t)，解得t=6(在0＜t≤6范围内)，&#x0A;∴△DEF的面积为-6+12×6=36(cm).&#x0A;综上，当△DEF是直角三角形时，△DEF的面积为&lt;img
+                src=&quot;ces.files/image024.png&quot;&gt;cm或36cm.
+            </alysis1>
+        </item>
+    </items>
+</zls-examination>

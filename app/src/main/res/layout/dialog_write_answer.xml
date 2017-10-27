@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+>
+
+    <FrameLayout
+        android:id="@+id/dialog_write_tablet_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+    >
+
+        <Button
+            android:id="@+id/dialog_write_but_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="#2aabfc"
+            android:text="提交"/>
+
+        <Button
+            android:id="@+id/dialog_write_but_clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="#2aabfc"
+            android:text="清屏"/>
+        <Button
+            android:id="@+id/dialog_write_but_repeal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="#2aabfc"
+            android:text="撤销"/>
+        <Button
+            android:id="@+id/dialog_write_but_recover"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="#2aabfc"
+            android:text="恢复"/>
+
+        <Button
+            android:id="@+id/dialog_write_but_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="#2aabfc"
+            android:text="取消"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  android:layout_centerVertical="true">
+
+        <Button
+            android:id="@+id/dialog_write_btn_read"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/dialog_write_read"
+        />
+        <Button
+            android:id="@+id/dialog_write_btn_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/dialog_write_back"
+        />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:auto="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+>
+
+
+    <ScrollView android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/fragment_choice_rl_big"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <view.MtextView
+                    android:id="@+id/fragment_choice_mv_question"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:textColor="#000000"
+                    android:textSize="25sp"
+                >
+                </view.MtextView>
+
+                <ImageButton
+                    android:id="@+id/fragment_choice_but_sound"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/shape_answer_selector"
+                    android:padding="10dp"
+                    android:src="@drawable/button_play_music"/>
+                <EditText
+                    android:id="@+id/fragment_choice_edt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="请输入你的答案"
+                    android:visibility="gone"/>
+
+                <!--正确答案，默认是隐藏的-->
+
+                <TextView
+                    android:id="@+id/fragment_choice_mv_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="30dp"
+                    android:layout_marginTop="5dp"
+                    android:padding="5dp"
+                    android:textColor="#169dfd"
+                    android:textSize="25sp"
+                />
+
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

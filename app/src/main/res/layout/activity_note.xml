@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/activity_main"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+>
+    <FrameLayout
+        android:id="@+id/note_write_tablet_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    >
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/note_write_iv_eraser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/button_eraser"/>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_alignParentBottom="true"
+                  android:orientation="vertical">
+
+        <!--<com.xw.repo.BubbleSeekBar-->
+        <!--android:layout_margin="15dp"-->
+        <!--android:id="@+id/bubbleSeekBar"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="30dp"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--android:layout_marginBottom="8dp"-->
+        <!--app:bsb_auto_adjust_section_mark="true"-->
+        <!--app:bsb_max="40"-->
+        <!--app:bsb_second_track_color="#0051ff"-->
+        <!--app:bsb_thumb_radius="10dp"-->
+        <!--app:bsb_thumb_text_size="18sp"-->
+        <!--app:bsb_touch_to_seek="true"-->
+        <!--/>-->
+
+        <!--<view.BottomNavigationView-->
+        <!--android:id="@+id/bottomNavigation"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="120dp"-->
+        <!--/>-->
+        <include
+            layout="@layout/main_bottom_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/note_write_edt_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        android:background="@null"
+        android:hint="输入文字"
+        android:padding="2dp"
+        android:visibility="gone"
+    />
+
+    <!--<view.VerticalSeekBar-->
+    <!--android:id="@+id/note_vertical_seekBar"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="400dp"-->
+    <!--android:layout_alignParentEnd="true"-->
+    <!--android:thumb="@drawable/snailanim"-->
+    <!--/>-->
+
+</RelativeLayout>

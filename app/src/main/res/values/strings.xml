@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">练习题</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="spinnerDate">
+        <item>全部</item>
+        <item>一天内</item>
+        <item>一周内</item>
+        <item>一个月内</item>
+        <item>一年内</item>
+    </string-array>
+</resources>

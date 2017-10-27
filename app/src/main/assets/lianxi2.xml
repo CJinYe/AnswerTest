@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<zls-examination>
+    <name>2.圆柱和圆锥</name>
+    <size>15</size>
+    <note>1</note>
+    <items>
+        <item>
+            <id>1</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;1.如图是圆柱的图形是(  &lt;img src=&quot;input_1_1&quot;&gt;)。
+			   &#x0A;&lt;/font&gt;&#x0A; &lt;img src=&quot;math/pic/02001.GIF&quot;&gt;</subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>2</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;2.如图是圆柱的图形是(  &lt;img src=&quot;input_1_1&quot;&gt;)。
+			   &#x0A;&lt;/font&gt;&#x0A; &lt;img src=&quot;math/pic/02002.GIF&quot;&gt;</subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>3</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;3.圆柱的底面周长是5.7cm，高为10cm，求它的侧面积是(  &lt;img src=&quot;input_1_1&quot;&gt;)平方厘米。&#x0A;A.57&#x0A;B.60&#x0A;C.80&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>4</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;4.挖一个深1.5m，底面直径6m的圆柱形蓄水池，要在池的底面和壁上抹上水泥。抹上水泥的面积是(  &lt;img src=&quot;input_1_1&quot;&gt;)平方米。&#x0A;A.61.56&#x0A;B.25.21&#x0A;C.56.52&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>5</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;5.一个圆柱形玻璃杯，从里面量直径是6cm，深10cm，这个玻璃杯能装(  &lt;img src=&quot;input_1_1&quot;&gt;)毫升水。&#x0A;A.125.6&#x0A;B.92.6&#x0A;C.282.6&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>6</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;6.圆锥的底面积不变，高扩大2倍，它的体积扩大(  &lt;img src=&quot;input_1_1&quot;&gt;)倍。&#x0A;A.1&#x0A;B.2&#x0A;C.3&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>7</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;7.圆锥的高不变，底面积扩大2倍，它的体积扩大(  &lt;img src=&quot;input_1_1&quot;&gt;)倍。&#x0A;A.2&#x0A;B.3&#x0A;C.4&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>8</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;8.一个棱长4cm的正方体与一个圆锥的体积相等。已知圆锥的高是6cm，侧其底面积是(  &lt;img src=&quot;input_1_1&quot;&gt;)平方厘米。&#x0A;A.32&#x0A;B.16&#x0A;C.64&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>9</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;9.一个水壶装有900ml水，倒出壶中40%的水，刚好装满6小杯。每小杯装(  &lt;img src=&quot;input_1_1&quot;&gt;)ml水。&#x0A;A.80&#x0A;B.100&#x0A;C.60&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>10</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;10.学校有一圆柱形喷水池，池内底面直径8m，最多能装25.12立方米水。水池深(  &lt;img src=&quot;input_1_3&quot;&gt;)米。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:0.5</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>0.5</answer>
+        </item>
+        <item>
+            <id>11</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;11.这个正方体的棱长是9cm，把它削成一个最大的圆柱体削去部分的体积是(  &lt;img src=&quot;input_1_7&quot;&gt;)立方厘米。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:156.735</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>156.735</answer>
+        </item>
+        <item>
+            <id>12</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;12.一个圆柱的高是15厘米，底面半径是5厘米，它的表面积是多少平方厘米？(  &lt;img src=&quot;input_1_3&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:628</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>628</answer>
+        </item>
+        <item>
+            <id>13</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;13.一个没有盖的圆柱形铁皮水桶，高是24厘米，底面直径是20厘米，做这个水桶要用铁皮多少平方厘米？(  &lt;img src=&quot;input_1_6&quot;&gt;)。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:1821.2</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>1821.2</answer>
+        </item>
+        <item>
+            <id>14</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;14.一根圆柱形木材长20分米，把它截成4个相等的圆柱体。表面积增加了18.84平方分米截后每段圆柱体积是(  &lt;img src=&quot;input_1_4&quot;&gt;)立方分米。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:15.7</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>15.7</answer>
+        </item>
+        <item>
+            <id>15</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;15.一个圆锥的体积是a立方米和它等底等高的圆柱体的体积是(  &lt;img src=&quot;input_1_2&quot;&gt;)立方米。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:3a</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>3a</answer>
+        </item>
+        <item>
+            <id>16</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;16.一个圆柱的底面半径是3cm，高是20cm。这个圆柱的表面积是(  &lt;img src=&quot;input_1_6&quot;&gt;)平方厘米。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:433.32</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>433.32</answer>
+        </item>
+        <item>
+            <id>17</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;17.一个圆柱的底面半径是3cm，高是20cm。这个圆柱的体积是(  &lt;img src=&quot;input_1_5&quot;&gt;)平方厘米。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:565.2</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>565.2</answer>
+        </item>
+        <item>
+            <id>18</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;18.一个圆锥的底面半径是3cm，高是20cm。这个圆锥的体积是(  &lt;img src=&quot;input_1_5&quot;&gt;)立方厘米。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:188.4</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>188.4</answer>
+        </item>
+        </items>
+</zls-examination>  

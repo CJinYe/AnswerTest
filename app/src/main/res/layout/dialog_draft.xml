@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+>
+    <FrameLayout
+        android:id="@+id/dialog_draft_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/draft_background">
+
+    </FrameLayout>
+    <!--<view.NoteView.TuyaView-->
+    <!--android:id="@+id/dialog_draft_tuya"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"/>-->
+    <ImageButton
+        android:id="@+id/dialog_draft_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@null"
+        android:padding="5dp"
+        android:src="@drawable/selector_draft_button_exit"/>
+    <ImageButton
+        android:id="@+id/dialog_draft_clear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@id/dialog_draft_exit"
+        android:background="@null"
+        android:padding="5dp"
+        android:src="@drawable/selector_draft_button_redo"/>
+    <ImageButton
+        android:id="@+id/dialog_draft_repeal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@id/dialog_draft_clear"
+        android:background="@null"
+        android:padding="5dp"
+        android:src="@drawable/selector_draft_button_undo"/>
+</RelativeLayout>

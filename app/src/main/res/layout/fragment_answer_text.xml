@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ScrollView android:layout_width="match_parent"
+                android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:id="@+id/fragment_answer_tv_question"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:textColor="#000000"
+                android:textSize="30sp"
+            >
+            </TextView>
+
+
+            <EditText
+                android:id="@+id/fragment_answer_edt_answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="top"
+                android:hint="请输入你的答案"
+                android:padding="5dp"
+                android:inputType="textMultiLine"
+                android:maxLines="10"
+                android:textSize="20sp"
+                android:minLines="5"
+                android:background="@drawable/shape_answer_normal"
+                android:scrollbars="vertical"/>
+
+            <!--正确答案，默认是隐藏的-->
+            <TextView
+                android:id="@+id/fragment_filling_mv_result"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="30dp"
+                android:layout_marginTop="10dp"
+                android:padding="5dp"
+                android:textColor="#fd0116"
+                android:textSize="23sp"
+            >
+
+            </TextView>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<zls-examination>
+    <name>4.统计</name>
+    <size>15</size>
+    <note>1</note>
+    <items>
+        <item>
+            <id>1</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;1.如图是某班50位同学参加体育运动统计图。&#x0A;打羽毛球有(  &lt;img src=&quot;input_1_1&quot;&gt;)人。
+			   &#x0A;&lt;img src=&quot;math/pic/04001.GIF&quot;&gt;&#x0A;A.26&#x0A;B.24&#x0A;C.13&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>2</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;2.如图是某班50位同学参加体育运动统计图。&#x0A;打乒乓球有(  &lt;img src=&quot;input_1_1&quot;&gt;)人。
+			   &#x0A;&lt;img src=&quot;math/pic/04001.GIF&quot;&gt;&#x0A;A.12&#x0A;B.24&#x0A;C.26&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>3</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;3.如图是某班50位同学参加体育运动统计图。&#x0A;打篮球有(  &lt;img src=&quot;input_1_1&quot;&gt;)人。
+			   &#x0A;&lt;img src=&quot;math/pic/04001.GIF&quot;&gt;&#x0A;A.20&#x0A;B.10&#x0A;C.4&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>4</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;4.如图是某班50位同学参加体育运动统计图。&#x0A;其他的有(  &lt;img src=&quot;input_1_1&quot;&gt;)人。
+			   &#x0A;&lt;img src=&quot;math/pic/04001.GIF&quot;&gt;&#x0A;A.8&#x0A;B.4&#x0A;C.16&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>5</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;5.如图是某班50位同学参加体育运动统计图。&#x0A;踢足球的有(  &lt;img src=&quot;input_1_1&quot;&gt;)人。
+			   &#x0A;&lt;img src=&quot;math/pic/04001.GIF&quot;&gt;&#x0A;A.22&#x0A;B.12&#x0A;C.11&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>6</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;6.1991年沙尘暴有(A)天是总天数最多的一年。(  &lt;img src=&quot;input_1_1&quot;&gt;)
+			   &#x0A;&lt;img src=&quot;math/pic/04002.GIF&quot;&gt;&#x0A;A.25&#x0A;B.30&#x0A;C.35&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>7</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;7.1998年沙尘暴总天数最少有(  &lt;img src=&quot;input_1_1&quot;&gt;)天。
+			   &#x0A;&lt;img src=&quot;math/pic/04002.GIF&quot;&gt;&#x0A;A.0&#x0A;B.10&#x0A;C.5&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>8</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;8.1993年比1991年沙尘暴总天数减少了(  &lt;img src=&quot;input_1_1&quot;&gt;)天。
+			   &#x0A;&lt;img src=&quot;math/pic/04002.GIF&quot;&gt;&#x0A;A.5&#x0A;B.10&#x0A;C.15&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>9</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;9.这是张浩家旅游消费情况表，2002年的消费是1996年(  &lt;img src=&quot;input_1_1&quot;&gt;)倍。
+			   &#x0A;&lt;img src=&quot;math/pic/04003.GIF&quot;&gt;&#x0A;A.1&#x0A;B.2&#x0A;C.3&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>10</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;10.从1996年到2002年，张浩家的旅游消费翻了(  &lt;img src=&quot;input_1_1&quot;&gt;)翻。
+			   &#x0A;&lt;img src=&quot;math/pic/04003.GIF&quot;&gt;&#x0A;A.1&#x0A;B.2&#x0A;C.3&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        </items>
+</zls-examination>  

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<zls-examination>
+    <name>1.百分数</name>
+    <size>15</size>
+    <note>1</note>
+    <items>
+        <item>
+            <id>1</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;1.选择题。&#x0A;百分之六就是(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.7% &#x0A;B.8% &#x0A;C.6%&#x0A;D.9%&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>2</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;2.选择题。&#x0A;百分之二百就是(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.200%&#x0A;B.201%&#x0A;C.180%&#x0A;D.19%&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>3</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;3.选择题。&#x0A;2/5=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.30%&#x0A;B.40%&#x0A;C.50%&#x0A;D.60%&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>4</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;4.选择题。&#x0A;17/100=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.60%&#x0A;B.24%&#x0A;C.19%&#x0A;D.17%&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:D</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>D</answer>
+        </item>
+        <item>
+            <id>5</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;5.选择题。&#x0A;0.78=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.60%&#x0A;B.78%&#x0A;C.20%&#x0A;D.17%&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>6</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;6.选择题。&#x0A;0.9=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.90%&#x0A;B.78%&#x0A;C.60%&#x0A;D.50%&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>7</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;7.选择题。&#x0A;25%=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.0.25&#x0A;B.0.75&#x0A;C.0.35&#x0A;D.0.45&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>8</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;8.选择题。&#x0A;35%=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.7/20&#x0A;B.13/100&#x0A;C.17/100&#x0A;D.35/67&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>9</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;9.选择题。&#x0A;200×35%=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.35&#x0A;B.70&#x0A;C.100&#x0A;D.15&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>10</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;10.选择题。&#x0A;150×75%=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.95&#x0A;B.78.5&#x0A;C.45.5&#x0A;D.112.5&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:D</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>D</answer>
+        </item>
+        <item>
+            <id>11</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;11.填空。&#x0A;百分之零点九四写成(  &lt;img src=&quot;input_1_4&quot;&gt;)%。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:0.94</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>0.94</answer>
+        </item>
+        <item>
+            <id>12</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;12.填空。&#x0A;百分之七十五写成(  &lt;img src=&quot;input_1_2&quot;&gt;)%。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:75</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>75</answer>
+        </item>
+        <item>
+            <id>13</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;13.填空。&#x0A;80%=(  &lt;img src=&quot;input_1_3&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:0.8</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>0.8</answer>
+        </item>
+        <item>
+            <id>14</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;14.填空。&#x0A;0.13=(  &lt;img src=&quot;input_1_2&quot;&gt;)%&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:13</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>13</answer>
+        </item>
+        <item>
+            <id>15</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;15.填空。&#x0A;7/20=(  &lt;img src=&quot;input_1_2&quot;&gt;)%&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:35</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>35</answer>
+        </item>
+        <item>
+            <id>16</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;16.填空。&#x0A;46%=(  &lt;img src=&quot;input_1_2&quot;&gt;)/50&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:23</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>23</answer>
+        </item>
+        <item>
+            <id>17</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;17.填空。&#x0A;45.3%=(  &lt;img src=&quot;input_1_5&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:0.453</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>0.453</answer>
+        </item>
+        <item>
+            <id>18</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;18.新苗小学今年有计算机121台,比去年增加了66台,今年的计算机台数比去年增加了(  &lt;img src=&quot;input_1_3&quot;&gt;)%。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:120</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>120</answer>
+        </item>
+        <item>
+            <id>19</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;19.六年级有150名同学，体育成绩合格率为98%，体育成绩不合格的有(  &lt;img src=&quot;input_1_1&quot;&gt;)名同学。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:3</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>3</answer>
+        </item>
+        <item>
+            <id>20</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;20.菲菲看一本160页的故事书，第一天看了全书的20%，第二天看了全书的25%，还有(  &lt;img src=&quot;input_1_2&quot;&gt;)页没有看。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:88</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>88</answer>
+        </item>
+        </items>
+</zls-examination>  

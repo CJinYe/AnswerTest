@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="ChoiceABCDNormal">#31b0ff</color>
+    <color name="ChoiceABCDSelector">#ffffff</color>
+    <color name="BackgroundABCDSelector">#31b0ff</color>
+    <color name="BackgroundABCDSelectorError">#ff0313</color>
+    <color name="BackgroundABCDNormal">#00ffffff</color>
+    <color name="BackgroundNormal">#337e7e7e</color>
+
+    <color name="boomMenuBg">#990083ff</color>
+    <color name="transparency">#00FF4081</color>
+
+    <!--  -->
+    <color name="MAIN_SELECT_TAB_BG">#ECF0F1</color>
+    <color name="RED">#FF0000</color>
+    <color name="GREEN">#006400</color>
+    <color name="BLUE">#0b8bfa</color>
+    <color name="ORANGE">#EEEE00</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="BLACK">#000000</color>
+    <color name="TvBgColorGray">#EDEDED</color>
+    <color name="ThemeColor">#f74545</color>
+    <color name="ThemeColorPress">#d93c3c</color>
+    <color name="MinorThemeColor">#edecea</color>
+    <color name="SyllabusBottomGreen">#56c917</color>
+    <color name="gray">#E7E3DA</color>
+    <color name="MAIN_PRESS">#eeeeee</color>
+    <color name="button">#56C917</color>
+    <color name="aaaaaa">#aaaaaa</color>
+    <color name="c999999">#999999</color>
+    <color name="LightGray">#D3D3D3</color>
+    <color name="Grey">#BEBEBE</color>
+
+    <color name="AnswerGreen">#118100</color>
+    <color name="AnswerRed">#da2d36</color>
+</resources>

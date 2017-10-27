@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:auto="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ScrollView android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/fragment_judge_rl_big"
+            android:layout_width="match_parent"
+            android:padding="20dp"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <view.MtextView
+                    android:id="@+id/fragment_judge_tv_question"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:padding="5dp"
+                    android:textSize="25sp"
+                />
+
+                <ImageButton
+                    android:id="@+id/fragment_judge_but_sound"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/shape_answer_selector"
+                    android:padding="10dp"
+                    android:layout_margin="5dp"
+                    android:src="@drawable/button_play_music"/>
+
+                <!--四个选项-->
+
+                <LinearLayout
+                    android:id="@+id/fragment_judge_ll_correct"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                >
+                    <RadioButton
+                        android:id="@+id/fragment_judge_radio_correct"
+                        android:layout_width="wrap_content"
+                        android:button="@drawable/radio_button_normal"
+                        android:layout_gravity="center"
+                        android:layout_height="wrap_content"/>
+                    <TextView
+                        android:id="@+id/fragment_judge_tv_correct"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:padding="10dp"
+                        android:text="正确"
+                        android:textColor="#000000"
+                        android:textSize="25sp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/fragment_judge_ll_error"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                >
+                    <RadioButton
+                        android:id="@+id/fragment_judge_radio_error"
+                        android:layout_width="wrap_content"
+                        android:button="@drawable/radio_button_normal"
+                        android:layout_gravity="center"
+                        android:layout_height="wrap_content"/>
+                    <TextView
+                        android:id="@+id/fragment_judge_tv_error"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:padding="10dp"
+                        android:text="错误"
+                        android:textColor="#000000"
+                        android:textSize="25sp"/>
+                </LinearLayout>
+
+                <!--正确答案，默认是隐藏的-->
+
+                <TextView
+                    android:id="@+id/fragment_judge_mv_result"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="30dp"
+                    android:layout_marginTop="10dp"
+                    android:textColor="#169dfd"
+                    android:textSize="25sp"
+                >
+                </TextView>
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

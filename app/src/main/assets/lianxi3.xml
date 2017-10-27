@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<zls-examination>
+    <name>3.正比例和反比例</name>
+    <size>15</size>
+    <note>1</note>
+    <items>
+        <item>
+            <id>1</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;1.选择题。&#x0A;2:3=1.2:(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.1.8&#x0A;B.1.2&#x0A;C.1&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>2</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;2.选择题。&#x0A;如果a×2=6×5，那么a=(  &lt;img src=&quot;input_1_1&quot;&gt;)。&#x0A;A.13&#x0A;B.14&#x0A;C.15&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>3</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;3.选择题。&#x0A;6:14=x:21&#x0A;x=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.9&#x0A;B.10&#x0A;C.11&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>4</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;4.选择题。&#x0A;x:1.8=4:0.3&#x0A;x=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.12&#x0A;B.24&#x0A;C.48&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>5</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;5.选择题。&#x0A;1/4=2/(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.4&#x0A;B.6&#x0A;C.8&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>6</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;6.选择题。&#x0A;5/12=30/(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.63&#x0A;B.72&#x0A;C.81&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>7</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;7.按规律填数。&#x0A;1/5 2/10 3/15 4/(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.25&#x0A;B.15&#x0A;C.20&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>8</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;8.按规律填数。&#x0A;81，27，(  &lt;img src=&quot;input_1_1&quot;&gt;),3,1&#x0A;A.9&#x0A;B.10&#x0A;C.11&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>9</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;9.按规律填数。&#x0A;(1，36)，(2，18)，(3，  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.8&#x0A;B.12&#x0A;C.14&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>10</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;10.按规律填数。&#x0A;有一堆煤，3辆卡车8次可以运完。如果要6次运完，需要安排(  &lt;img src=&quot;input_1_1&quot;&gt;)辆这样的卡车。&#x0A;A.3&#x0A;B.4&#x0A;C.5&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>11</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;11.填空&#x0A;5:8=(  &lt;img src=&quot;input_1_2&quot;&gt;):40&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:25</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>25</answer>
+        </item>
+        <item>
+            <id>12</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;12.填空。&#x0A;2/3=x/4&#x0A;x=(  &lt;img src=&quot;input_1_4&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:2.67</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>2.67</answer>
+        </item>
+        <item>
+            <id>13</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;13.填空。&#x0A;11:13=(  &lt;img src=&quot;input_1_2&quot;&gt;):36&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:33</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>33</answer>
+        </item>
+        <item>
+            <id>14</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;14.萌萌和同学们在操场上测量出旗杆影子的长是4m，同时测得米尺影子的长是40cm。学校旗杆有(  &lt;img src=&quot;input_1_3&quot;&gt;)高。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:10m</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>10m</answer>
+        </item>
+        <item>
+            <id>15</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;15.印刷厂用一批纸装订练习本如果每本50页，可以装订1200本；如果每本30页，可以多装订多少本？(  &lt;img src=&quot;input_1_4&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:2000</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>2000</answer>
+        </item>
+        <item>
+            <id>16</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;16.学校组织同学参观爱国主义图片展，每60名同学要聘请2名讲解员作介绍。全校990名同学要聘请几名讲解员？&#x0A;(  &lt;img src=&quot;input_1_2&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:33</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>33</answer>
+        </item>
+        <item>
+            <id>17</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;17.按规律填数。&#x0A;(  &lt;img src=&quot;input_1_1&quot;&gt;)，4，2，1&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:8</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>8</answer>
+        </item>
+        <item>
+            <id>18</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;18.按规律填数。&#x0A;(  &lt;img src=&quot;input_1_1&quot;&gt;，3)，(6，2)，(3，1)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:9</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>9</answer>
+        </item>
+        <item>
+            <id>19</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;19.计算。&#x0A;1.8/2=x/5&#x0A;x=(  &lt;img src=&quot;input_1_3&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:4.5</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>4.5</answer>
+        </item>
+        <item>
+            <id>20</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;20.计算。&#x0A;2x:0.8=1.5:4&#x0A;x=(  &lt;img src=&quot;input_1_4&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:0.15</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>0.15</answer>
+        </item>
+        </items>
+</zls-examination>

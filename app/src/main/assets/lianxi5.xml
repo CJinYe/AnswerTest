@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<zls-examination>
+    <name>5.总复习</name>
+    <size>15</size>
+    <note>1</note>
+    <items>
+        <item>
+            <id>1</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;1.选择题。&#x0A;七十五万四千四百四十三写作(  &lt;img src=&quot;input_1_1&quot;&gt;)。&#x0A;A.754443&#x0A;B.7500004443&#x0A;C.75004000400403&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>2</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;2.选择题。&#x0A;(  &lt;img src=&quot;input_1_1&quot;&gt;)时15分=195分&#x0A;A.1&#x0A;B.2&#x0A;C.3&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>3</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;3.选择题。&#x0A;54+99×99+54=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.9999&#x0A;B.9909&#x0A;C.990&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>4</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;4.选择题。&#x0A;927÷34≈(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.30&#x0A;B.25&#x0A;C.27&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>5</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;5.选择题。&#x0A;3x+6x=18&#x0A;x=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.1&#x0A;B.2&#x0A;C.3&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>6</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;6.选择题。&#x0A;5x:2=80:4&#x0A;x=(  &lt;img src=&quot;input_1_1&quot;&gt;)&#x0A;A.1&#x0A;B.4&#x0A;C.8&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:C</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>C</answer>
+        </item>
+        <item>
+            <id>7</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;7.从下面4个数中选出3个数使它们可以成为三角形的边长，可以选(  &lt;img src=&quot;input_1_1&quot;&gt;)。&#x0A;a.1  b.2  c.3  d.4&#x0A;A.abc&#x0A;B.bcd&#x0A;C.acd &lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>8</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;8.选择题。&#x0A;2立方分米=(  &lt;img src=&quot;input_1_1&quot;&gt;)L。&#x0A;A.1&#x0A;B.2&#x0A;C.20&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item>
+        <item>
+            <id>9</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;9.选择题。&#x0A;2000ml=(  &lt;img src=&quot;input_1_1&quot;&gt;)L&#x0A;A.2&#x0A;B.20&#x0A;C.30&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>10</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;10.选择题。&#x0A;0.45分=(  &lt;img src=&quot;input_1_1&quot;&gt;)秒&#x0A;A.27&#x0A;B.45&#x0A;C.35&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>11</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;11.填空&#x0A;一百八十万八千五百写作(  &lt;img src=&quot;input_1_1&quot;&gt;)。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:1808500</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>1808500</answer>
+        </item>
+        <item>
+            <id>12</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;12.填空。&#x0A;1020g=(  &lt;img src=&quot;input_1_1&quot;&gt;)kg。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:1.02</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>1.02</answer>
+        </item>
+        <item>
+            <id>13</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;13.填空。&#x0A;46×2.2÷(3.3+5.9)=(  &lt;img src=&quot;input_1_1&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:11</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>11</answer>
+        </item>
+        <item>
+            <id>14</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;14.填空。&#x0A;1375+450÷18×25=(  &lt;img src=&quot;input_1_1&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:2000</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>2000</answer>
+        </item>
+        <item>
+            <id>15</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;15.填空。&#x0A;2x×5-1.5=1.5&#x0A;x=(  &lt;img src=&quot;input_1_1&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:0.3</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>0.3</answer>
+        </item>
+        <item>
+            <id>16</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;16.填空。&#x0A;0.6x:2=1.8:4&#x0A;x=(  &lt;img src=&quot;input_1_1&quot;&gt;)&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:1.5</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>1.5</answer>
+        </item>
+        <item>
+            <id>17</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;17.填空。&#x0A;如果一个等腰三角形的顶角是30°，它的一个底角是(  &lt;img src=&quot;input_1_1&quot;&gt;)。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:75</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>75</answer>
+        </item>
+        <item>
+            <id>18</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;18.填空。&#x0A;4.5平方千米=(  &lt;img src=&quot;input_1_1&quot;&gt;)平方米。&lt;/font&gt;&#x0A; </subject>
+            <analysis>[正确答案]:4500</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>4500</answer>
+        </item>
+        <item>
+            <id>19</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;19.求表面积。&#x0A;(  &lt;img src=&quot;input_1_1&quot;&gt;)
+			   &#x0A; &lt;/font&gt;&#x0A; &lt;img src=&quot;math/pic/05001.GIF&quot;&gt;</subject>
+            <analysis>[正确答案]:340</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>340</answer>
+        </item>
+        <item>
+            <id>20</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;20.求体积。&#x0A;(  &lt;img src=&quot;input_1_1&quot;&gt;)
+			   &#x0A; &lt;/font&gt;&#x0A; &lt;img src=&quot;math/pic/05002.GIF&quot;&gt;</subject>
+            <analysis>[正确答案]:1000</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>1000</answer>
+        </item>
+        </items>
+</zls-examination>

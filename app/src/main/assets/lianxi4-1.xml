@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<zls-examination>
+    <name>2~6的乘法口诀</name>
+    <size>15</size>
+    <note>1</note>
+    <items>
+        <item>
+            <id>1</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;一、填空题。&#x0A;1.①2×(  &lt;img src=&quot;input_1_1&quot;&gt;)=10，②(  &lt;img src=&quot;input_2_1&quot;&gt;)×3=12，③(  &lt;img src=&quot;input_3_1&quot;&gt;)×5=20&#x0A;④3×(  &lt;img src=&quot;input_4_1&quot;&gt;)=18，⑤(  &lt;img src=&quot;input_5_1&quot;&gt;)×6=36，⑥4×(  &lt;img src=&quot;input_6_1&quot;&gt;)=24&#x0A;⑦6×(  &lt;img src=&quot;input_7_1&quot;&gt;)=30，⑧(  &lt;img src=&quot;input_8_1&quot;&gt;)×2=12，⑨3×(  &lt;img src=&quot;input_9_1&quot;&gt;)=9&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:5;4;4;6;6;6;5;6;3</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>5||4||4||6||6||6||5||6||3</answer>
+        </item>
+        
+
+        <item>
+            <id>2</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;一、填空题。&#x0A;2.把可以用“四六二十四”这句口诀计算的水果涂上你喜欢的颜色。然后再连一连。&#x0A;&lt;img src=&quot;math/pic/练习4-2.GIF&quot;&gt;&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:&lt;img src=&quot;math/pic/练习4-3.GIF&quot;&gt;</analysis>
+             <score>5</score>
+            <type>31</type>
+            <answer>&lt;img src=&quot;math/pic/练习4-3.GIF&quot;&gt;</answer>
+        </item>
+        <item>
+            <id>3</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;一、填空题。&#x0A;3.补充口诀，每句口诀写出算式。&#x0A;(1)一(  &lt;img src=&quot;input_1_1&quot;&gt;)得五，(  &lt;img src=&quot;input_2_5&quot;&gt;)。&#x0A;(2)四五(  &lt;img src=&quot;input_3_2&quot;&gt;)，(  &lt;img src=&quot;input_4_6&quot;&gt;)。&#x0A;(3)(  &lt;img src=&quot;input_5_1&quot;&gt;)五十五，(  &lt;img src=&quot;input_6_6&quot;&gt;)。&#x0A;(4)(  &lt;img src=&quot;input_7_1&quot;&gt;)五一十(  &lt;img src=&quot;input_8_6&quot;&gt;)。&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:五;1×5=5;二十;4×5=20;三;3×5=15;二;2×5=10</analysis>
+             <score>5</score>
+            <type>3</type>
+            <answer>五||1×5=5||二十||4×5=20||三||3×5=15||二||2×5=10</answer>
+        </item>
+        <item>
+            <id>4</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;一、填空题。&#x0A;4.先填空，再连线。&#x0A;&lt;img src=&quot;math/pic/练习4-4.GIF&quot;&gt;&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:&lt;img src=&quot;math/pic/练习4-5.GIF&quot;&gt;</analysis>
+             <score>5</score>
+            <type>31</type>
+            <answer>&lt;img src=&quot;math/pic/练习4-5.GIF&quot;&gt;</answer>
+        </item>
+
+        <item>
+            <id>5</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;二、连线题。5.小兔子采蘑菇。(连一连)&#x0A;&lt;img src=&quot;math/pic/练习4-00.GIF&quot;&gt;,&lt;img src=&quot;math/pic/练习4-01.GIF&quot;&gt;,&lt;img src=&quot;math/pic/练习4-02.GIF&quot;&gt;,&lt;img src=&quot;math/pic/练习4-03.GIF&quot;&gt;&#x0A;&lt;img src=&quot;math/pic/练习4-04.GIF&quot;&gt;,&lt;img src=&quot;math/pic/练习4-05.GIF&quot;&gt;,&lt;img src=&quot;math/pic/练习4-06.GIF&quot;&gt;,&lt;img src=&quot;math/pic/练习4-07.GIF&quot;&gt;</subject>
+            <analysis>[正确答案]:&lt;img src=&quot;math/pic/练习4-08.GIF&quot;&gt;</analysis>
+            <score>5</score>
+            <type>101</type>
+            <answer>0-3||2-7||4-5||6-1</answer>
+        </item>
+       
+        </items>
+</zls-examination>
+

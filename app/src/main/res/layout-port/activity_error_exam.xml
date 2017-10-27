@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/main_relativeLayout"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="activity.MainActivity">
+
+    <!--切换题目-->
+    <LinearLayout
+        android:id="@+id/main_ll_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+
+        <LinearLayout android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_gravity="center_horizontal"
+                      android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/main_btn_up"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@null"
+                android:src="@drawable/selector_main_button_up"
+            />
+            <TextView
+                android:id="@+id/main_tv_pager_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/main_page_tv_bg"
+                android:gravity="center"
+                android:padding="10dp"
+                android:textColor="#016dd8"
+                android:textSize="30dp"
+            />
+            <ImageButton
+                android:id="@+id/main_btn_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@null"
+                android:src="@drawable/selector_main_button_down"
+            />
+        </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main_Ll_title_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#036FD9"
+        android:orientation="horizontal">
+        <ImageButton
+            android:id="@+id/main_tv_button_add_error"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:padding="5dp"
+            android:src="@drawable/title_button_add_error_normal"
+            android:visibility="gone"
+        />
+        <ImageButton
+            android:id="@+id/main_tv_button_reset"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:padding="5dp"
+            android:src="@drawable/selector_title_button_reset"
+        />
+        <ImageButton
+            android:id="@+id/main_ib_draft"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:padding="5dp"
+            android:src="@drawable/selector_title_button_note"/>
+        <ImageButton
+            android:id="@+id/main_tv_answer_card"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:padding="5dp"
+            android:src="@drawable/selector_title_button_answer_card"
+        />
+        <ImageButton
+            android:id="@+id/main_tv_button_go_back"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:padding="5dp"
+            android:src="@drawable/selector_title_button_go_back"
+        />
+        <ImageButton
+            android:id="@+id/main_tv_button_exit"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:padding="5dp"
+            android:src="@drawable/selector_title_button_exit"
+        />
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/main_fragment_ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/main_ll_btn"
+        android:orientation="vertical">
+        <!--android:layout_height="@dimen/y63"-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/title_background">
+
+            <TextView
+                android:id="@+id/main_cm_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="5dp"
+                android:layout_marginEnd="50dp"
+                android:format="HH:mm:ss"
+                android:textColor="#ffffff"
+                android:textSize="40sp"
+            />
+
+            <ImageView android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:layout_centerInParent="true"
+                       android:layout_margin="5dp"
+                       android:layout_toLeftOf="@id/main_cm_time"
+                       android:src="@drawable/title_time"/>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/main_tv_score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="分数"
+            android:textColor="#ff0101"
+            android:textSize="30sp"
+            android:visibility="gone"
+        />
+        <view.NoPreloadViewPager
+            android:id="@+id/main_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </view.NoPreloadViewPager>
+    </LinearLayout>
+
+    <view.SlideLeftRightButton
+        android:id="@+id/main_slide_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/main_ll_btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:visibility="gone"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.icox.exercises"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <application
+        android:name="activity.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <!--android:screenOrientation="landscape"-->
+        <activity
+            android:name="activity.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+        >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+                  <!--android:screenOrientation="portrait"-->
+        <activity android:name="activity.NotePageActivity"
+                  android:configChanges="keyboardHidden|orientation|screenSize"
+                  android:theme="@style/DialogTransparent"
+                  android:exported="true"/>
+        <activity android:name="activity.DraftDialogActivity"
+                  android:configChanges="keyboardHidden|orientation"
+                  android:theme="@style/DialogTransparent"/>
+        <activity android:name="activity.PicActivity"
+                  android:configChanges="keyboardHidden|orientation|screenSize"
+                  android:theme="@style/DialogTransparent"/>
+        <activity android:name="activity.ErrorExamMainActivity"
+                  android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="activity.ErrorExamActivity"
+                  android:configChanges="keyboardHidden|orientation|screenSize"/>
+    </application>
+
+</manifest>

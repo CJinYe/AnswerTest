@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:auto="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ScrollView android:layout_width="match_parent"
+                android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <!--<TextView android:layout_width="wrap_content"-->
+                      <!--android:layout_height="wrap_content"-->
+                      <!--android:text="作答题："-->
+                      <!--android:textColor="#0fb1f1"-->
+                      <!--android:textSize="23sp"/>-->
+            <TextView
+                android:id="@+id/fragment_answer_mv_question"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:padding="10dp"
+                android:textSize="30sp"
+            >
+            </TextView>
+
+
+            <ImageButton
+                android:id="@+id/fragment_answer_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:padding="10dp"
+                android:background="@drawable/shape_answer_selector"
+                android:text="答题板"
+                android:src="@drawable/button_answer_note_normal"
+                android:textSize="30sp"/>
+            <!--正确答案，默认是隐藏的-->
+
+            <ImageView
+                android:id="@+id/fragment_answer_iv_answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+            />
+
+
+            <TextView
+                android:id="@+id/fragment_answer_mv_result"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="30dp"
+                android:padding="5dp"
+                android:textColor="#fd0116"
+                android:textSize="30sp"
+            >
+
+            </TextView>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<zls-examination>
+    <name>课后练习</name>
+    <size>15</size>
+    <note>1</note>
+    <items>
+      <item>
+            <id>1</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;填空题&#x0A;1.电流做功的过程，实际就是( )。&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:电能转化成其他形式能的过程</analysis>
+             <score>5分</score>
+            <type>3</type>
+            <answer>电能转化成其他形式能的过程</answer>
+        </item> 
+        <item>
+            <id>2</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;填空题&#x0A;2.电能表是测量( )仪器。电能表上"220V""5A""3000R/kwh"等字样，分别表示：();();().&lt;/font&gt;&#x0A;</subject>
+           ；<analysis>[正确答案]:电路消耗电能；额定电压是220V；允许通过的最大电流是5A；每消耗；1KWh的电能时转盘转过30；00转</analysis>
+             <score>5分</score>
+            <type>3</type>
+            <answer>电路消耗电能__额定电压是220V__允许通过的最大电流是5A__每消耗__1KWh的电能时转盘转过30__00转</answer>
+        </item> 
+        <item>
+            <id>3</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;选择题&#x0A;3.甲、乙两电炉并联在同一电源上 ，各有开关控制，甲炉电阻是乙炉的4倍，要两电炉产生同样多的热量则应：( )&#x0A; A.甲通电时间是乙的4倍&#x0A;B.乙通电时间是甲的4倍&#x0A;C.甲、乙通电时间一样长&#x0A;D.不知道额定电压无法比较&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5分</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item> 
+        <item>
+            <id>4</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;选择题&#x0A;4.下列电器工作过程中，把电能转化为机械能的是( )&#x0A; A.电磁继电器	&#x0A;B.发电机	&#x0A;C.电饭煲	&#x0A;D.电动机&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:D</analysis>
+             <score>5分</score>
+            <type>0</type>
+            <answer>D</answer>
+        </item> 
+          <item>
+            <id>5</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;选择题&#x0A;5.关于电功，下列说法中正确的是( )&#x0A;A.用电器通电的时间越长，电流做的功一定越多&#x0A;B.通过用电器的电流越大，电流做的功一定越多&#x0A;C.用电器两端的电压越大，电流做的功一定越多&#x0A;D.用电器消耗的电能越大，电流做的功一定越多&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:D</analysis>
+             <score>5分</score>
+            <type>0</type>
+            <answer>D</answer>
+        </item> 
+        <item>
+            <id>6</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;填空题&#x0A;6.用电器工作的过程，就是将( )能转化为其他形式能的过程.电流通过电热毯时，电能转化为( )能；电流通过电风扇时，电能主要转化为( )能.&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:电；内；机械</analysis>
+             <score>5分</score>
+            <type>3</type>
+            <answer>电__内__机械</answer>
+        </item> 
+        <item>
+            <id>7</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;填空题&#x0A;7.电流做功的过程，实际上是( )能转化为( )能的过程.电流通过电炉时，电能转化为( )能；电流通过电风扇时，电能转化为( )能；给手机电池充电时，电能转化为( )能.&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:电；其它形式的；内；机械；化学</analysis>
+             <score>5分</score>
+            <type>3</type>
+            <answer>电__其它形式的__内__机械__化学</answer>
+        </item> 
+        <item>
+            <id>8</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;选择题&#x0A;8.下列不是电功单位的是( )&#x0A;A.安培（A）	&#x0A;B.千瓦时（kW·h）&#x0A;C.焦耳（J）	&#x0A;D.伏.安.秒（V.A.s）&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:A</analysis>
+             <score>5分</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item> 
+        <item>
+            <id>9</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;选择题&#x0A;9.三峡工程举世瞩目，其年发电量在847亿kW.h以上，“kW·h”是下列哪个物理量的单位( )&#x0A;A.电功率	&#x0A;B.时间	&#x0A;C.电流	&#x0A;D.电能&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:D</analysis>
+             <score>5分</score>
+            <type>0</type>
+            <answer>D</answer>
+        </item> 
+        <item>
+            <id>10</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;选择题&#x0A;10.电能表是( )&#x0A;A.测定用电时间的仪表&#x0A;B.测定用电器消耗电能多少的仪表&#x0A;C.测定干路中电流大小的仪表&#x0A;D.测定电功率的仪表&lt;/font&gt;&#x0A;</subject>
+            <analysis>[正确答案]:B</analysis>
+             <score>5分</score>
+            <type>0</type>
+            <answer>B</answer>
+        </item> 
+        </items>
+</zls-examination>

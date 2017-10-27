@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<zls-examination>
+    <name>第三章</name>
+    <size>15</size>
+    <note>1</note>
+    <items>
+        <item>
+            <id>1</id>
+            <subject>一、填空题（共4小题）。1.液体对物体向上和向下的压力的差就是液体对物体的浮力，浮力的大小等于它排开液体受到的重力，浮力的方向总是(  &lt;img src=&quot;input_1_4&quot;&gt;)。</subject>
+            <analysis>[正确答案]:竖直向上</analysis>
+            <score>5分</score>
+            <type>3</type>
+            <answer>竖直向上</answer>
+        </item>
+        <item>
+            <id>2</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;一、填空题（共4小题）。&#x0A;2.决定花儿的生长因素有 (  &lt;img src=&quot;input_1_4&quot;&gt;) (  &lt;img src=&quot;input_2_4&quot;&gt;) (  &lt;img src=&quot;input_3_4&quot;&gt;),请画一朵花儿(  &lt;img src=&quot;note_4_1&quot;&gt;)。&lt;/font&gt;</subject>
+            <analysis>[正确答案]:光照_水_温度||光照_水_温度||光照_水_温度||花儿</analysis>
+            <score>5分</score>
+            <type>31</type>
+            <answer>光照_水_温度||光照_水_温度||光照_水_温度||图图图</answer>
+        </item>
+        <item>
+            <id>3</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;一、填空题（共4小题）。&#x0A;3.(光照_水_温度_土壤) 决定花儿的生长因素有 (  &lt;img src=&quot;input_1_4&quot;&gt;) (  &lt;img src=&quot;input_2_4&quot;&gt;) (  &lt;img src=&quot;input_3_4&quot;&gt;) (  &lt;img src=&quot;input_4_4&quot;&gt;) 等。&lt;/font&gt;</subject>
+            <analysis>[正确答案]:(1)光照_水_温度_土壤；(2)光照_水_温度_土壤；(3)光照_水_温度_土壤；(4)光照_水_温度_土壤；</analysis>
+            <score>5分</score>
+            <type>3</type>
+            <answer>光照_水_温度_土壤||光照_水_温度_土壤||光照_水_温度_土壤||光照_水_温度_土壤</answer>
+        </item>
+        <item>
+            <id>4</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;一、填空题（共4小题）。&#x0A;4.(  &lt;img src=&quot;input_1_4&quot;&gt;)的一天,妈妈(  &lt;img src=&quot;input_2_1&quot;&gt;)我去公园玩,我们在公园看到了好多好多的（画出来）(  &lt;img src=&quot;note_3_1&quot;&gt;),妈妈跟我说决定花儿的生长因素有 (  &lt;img src=&quot;input_4_4&quot;&gt;) (  &lt;img src=&quot;input_5_4&quot;&gt;) (  &lt;img src=&quot;input_6_4&quot;&gt;),然后我们还(  &lt;img src=&quot;input_7_1&quot;&gt;)了雪糕,今天好开心呀,哈哈哈。&lt;/font&gt;</subject>
+            <analysis>[正确答案]:(1)阳光明媚；(2)带；(3)花儿；(4)光照_水_温度；(5)光照_水_温度；(6)光照_水_温度；(7)吃</analysis>
+            <score>5分</score>
+            <type>31</type>
+            <answer>阳光明媚||带||图图图||光照_水_温度||光照_水_温度||光照_水_温度||吃</answer>
+        </item>
+        <item>
+            <id>5</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;二、选择题（共5小题）。&#x0A;5.液体对底面的压强为(  &lt;img src=&quot;input_1_2&quot;&gt;)。&#x0A;A.p=ρgh&#x0A;B.p=ρg&#x0A;C.p=ρh&lt;/font&gt;</subject>
+            <analysis>[正确答案]:A</analysis>
+            <score>5分</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>6</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;二、选择题（共5小题）。&#x0A;6.决定花儿的生长因素有(  &lt;img src=&quot;input_1_5&quot;&gt;)。&#x0A;A.水&#x0A;B.温度&#x0A;C.花生油&#x0A;D.光照&lt;/font&gt;</subject>
+            <analysis>[正确答案]:B</analysis>
+            <score>5分</score>
+            <type>1</type>
+            <answer>ABD</answer>
+        </item>
+        <item>
+            <id>7</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;下面关于9的算式都正确的有(  &lt;img src=&quot;input_1_1&quot;&gt;).&#x0A;A、6+3=9&#x0A;B、7+2=9&#x0A;C、3+3=6&#x0A;D、8+1=9&#x0A;A.ABD&#x0A; B.ACD &#x0A;C.BCD&#x0A;&lt;/font&gt; </subject>
+            <analysis>[正确答案]:A</analysis>
+            <score>5</score>
+            <type>0</type>
+            <answer>A</answer>
+        </item>
+        <item>
+            <id>8</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;三、判断题（共5小题）。&#x0A;10.一个标准大气压是hPa。答案是错误</subject>
+            <analysis>[正确答案]:A</analysis>
+            <score>5分</score>
+            <type>2</type>
+            <answer>0</answer>
+        </item>
+
+        <item>
+            <id>9</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;三、判断题（共5小题）。&#x0A;11.一个标准大气压是hPa。答案是对</subject>
+            <analysis>[正确答案]:A</analysis>
+            <score>5分</score>
+            <type>2</type>
+            <answer>1</answer>
+        </item>
+        <item>
+            <id>10</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;四、连线题（共2小题）。&#x0A;清明节,番茄,金龙锋,愚人节&#x0A;炒蛋,icox,4.1,4.4</subject>
+            <analysis>[正确答案]:清明节-4.4,番茄-炒蛋,金龙锋-icox,愚人节-4.1</analysis>
+            <score>5分</score>
+            <type>101</type>
+            <answer>清明节-4.4,番茄-炒蛋,金龙锋-icox,愚人节-4.1</answer>
+            <answer>0-7||2-1||4-3||6-5</answer>
+        </item>
+        <item>
+            <id>11</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;四、连线题（共2小题）。&#x0A;碎片,活动,适配器,对话框,监听器&#x0A;listener,adapter,fragment,dialog,activity</subject>
+            <analysis>[正确答案]:碎片-fragment,活动-activity,适配器-adapter,对话框-dialog,监听器-listener</analysis>
+            <score>5分</score>
+            <type>101</type>
+            <answer>0-5||2-9||4-3||6-7||8-1</answer>
+        </item>
+        <item>
+            <id>12</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;五、作答题（共2小题）。&#x0A;15.写一篇日记</subject>
+            <analysis>[正确答案]:喵~~</analysis>
+            <score>5分</score>
+            <type>41</type>
+            <answer>喵</answer>
+        </item>
+        <item>
+            <id>13</id>
+            <subject>&lt;font color=&quot;#0000ff&quot;&gt;五、作答题（共2小题）。&#x0A;16.请画一只小狗</subject>
+            <analysis>[正确答案]:dog~~</analysis>
+            <score>5分</score>
+            <type>4</type>
+            <answer>dog</answer>
+        </item>
+    </items>
+</zls-examination>
+                          
+    
+    
+    
